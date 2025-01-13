@@ -13,7 +13,7 @@ This project demonstrates an interactive card design with HTML, CSS, and JavaScr
 
 ## Demo
 
-![Interactive Card Design] (https://drive.google.com/file/d/12J_5Lo4N1Z0UyOygOOjcU04LhjoGS04e/view?usp=drive_link)
+[Interactive Card Design] (https://drive.google.com/file/d/12J_5Lo4N1Z0UyOygOOjcU04LhjoGS04e/view?usp=drive_link)
 
 ## Features
 

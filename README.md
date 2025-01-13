@@ -1,4 +1,4 @@
-# Interactive Card Design with Dynamic Zooming
+# Interactive Card Design
 
 This project showcases an interactive card-based UI where cards loop infinitely while scrolling, and the card in the center dynamically zooms in for a visually engaging effect. Users can also drag to scroll through the cards, making it an intuitive experience.
 
@@ -14,4 +14,4 @@ This project showcases an interactive card-based UI where cards loop infinitely 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/interactive-card-design.git
+   git clone https://github.com/KarkiAnuj17/-Interactive-Card-Design.git

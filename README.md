@@ -7,9 +7,7 @@ This project demonstrates an interactive card design with HTML, CSS, and JavaScr
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
+
 
 ## Demo
 
@@ -35,10 +33,3 @@ Ensure you have a web browser installed. No other prerequisites are needed.
  Clone the repository:
    ```bash
    git clone https://github.com/KarkiAnuj17/interactive-card-design.git
-
-## Contact
-
-For any questions or suggestions, feel free to contact me:
-
-- GitHub: [KarkiAnuj17](https://github.com/KarkiAnuj17)
-- Email: karkianuj111@example.com

@@ -36,32 +36,6 @@ Ensure you have a web browser installed. No other prerequisites are needed.
    ```bash
    git clone https://github.com/KarkiAnuj17/interactive-card-design.git
 
-## Usage
-
-Open the `index.html` file in your web browser to view the interactive card design:
-
-```bash
-open index.html
-
-## Contributing
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add some feature'
-4. Push to the branch:
-    ```bash
-    git push origin feature-branch
-5. Open a Pull Request.
-    ```bash 
-You can copy and paste this into your own document or wherever needed! Let me know if you'd like help formatting or editing it further. 😊
-
-
 ## Contact
 
 For any questions or suggestions, feel free to contact me:
